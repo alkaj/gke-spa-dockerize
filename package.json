@@ -1,6 +1,6 @@
 {
   "name": "gke-spa-dockerizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make a simple nginx based container serving a SPA application with render-tron powered prerendering, optimezed for cloud run",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alkaj/spa-dockerize.git"
+    "url": "git+https://github.com/alkaj/gke-spa-dockerize.git"
   },
   "keywords": [
     "docker",
     "nginx",
     "GKE",
+    "Anthos",
     "Cloud Run",
     "SPA",
     "dockerize"
@@ -22,7 +23,7 @@
   "author": "Kamla Junior",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alkaj/spa-dockerize/issues"
+    "url": "https://github.com/alkaj/gke-spa-dockerize/issues"
   },
-  "homepage": "https://github.com/alkaj/spa-dockerize#readme"
+  "homepage": "https://github.com/alkaj/gke-spa-dockerize#readme"
 }

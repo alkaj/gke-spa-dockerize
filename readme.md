@@ -20,7 +20,7 @@ build the docker image
 
 or  
 
-Simply ``` docker build -t my-spa-app-image . ``` if the root folder is the same site root 
+Simply ``` docker build -t my-spa-app-image . ``` if the root folder is the same as the site root 
   
 ### 3. Run it locally  
 Run the image locally to test your site  
